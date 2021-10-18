@@ -100,6 +100,7 @@ class OAuth
      */
     protected function getGrant()
     {
+        if(false)
         return new RefreshToken();
     }
 
