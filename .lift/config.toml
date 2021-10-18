@@ -1,0 +1,2 @@
+tools = []
+customTools = [ "https://gist.githubusercontent.com/TomMD/5efd796aa19a8a59ca268dbe00904148/raw/psalm.sh" ]
